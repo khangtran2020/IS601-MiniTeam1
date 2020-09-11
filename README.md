@@ -8,7 +8,7 @@ Team member:
 In this project we will explain how the usage of Git, Docker, automated testing,
 and continuous integration can improve the productivity and competitiveness of a company.
 
-##Git 
+## Git 
 
 Git is a free and open source distributed version control system 
 designed to handle everything from small to very large projects with 
