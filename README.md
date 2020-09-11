@@ -12,4 +12,11 @@ and continuous integration can improve the productivity and competitiveness of a
 
 Git is a free and open source distributed version control system 
 designed to handle everything from small to very large projects with 
-speed and efficiency.
+speed and efficiency. These are the advantages of Git:
+* Branching and Merging
+* Small and Fast
+* Distributed
+* Data Assurance
+* Staging Area
+* Free and Open Source
+
