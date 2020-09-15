@@ -79,10 +79,13 @@ Customer support and customer success often have a different take on updates tha
 
 Git’s streamlined development cycle avoids postponing bug fixes until the next monolithic release. A developer can patch the problem and push it directly to production. Faster fixes means happier customers and fewer repeat support tickets. Instead of being stuck with, “Sorry, we’ll get right on that” your customer support team can start responding with “We’ve already fixed it!
 
+# 3. Docker and its benefit that can improve the productivity and competitiveness of a company.
+# 4. Automated testing and its benefit that can improve the productivity and competitiveness of a company.
+# 5. Continuous integration and its benefit that can improve the productivity and competitiveness of a company.
 
-# 3. Git Commands and Terminology
+# 6. Git Commands and Terminology
 
-## 3.1 Git Clone
+## 6.1 Git Clone
 This command is used to get a copy of an already existing Git repository. Cloning can be considered as a process of creating an identical copy of Git repository to the local system.
 When we clone a repository, all the files are downloaded to local machine, but the remote repository remains unchanged. Editing the local repository and committing changes does not have an impact on the remote version in any way.
 However, these changes can be synced with the remote repository anytime the user wants.
@@ -94,4 +97,4 @@ In other words, for generating git clone, we need a repository created with git 
 The most common use of clone is to simply copy the remote respository.
 This follows the syntax of git clone [url]. This enables the user to take advantage of a full repository on local machine without disturbing the original version.
 
-## 3.2 Git Fork
+## 6.2 Git Fork
