@@ -1,11 +1,11 @@
-# 4. Automated testing and its benefit that can improve the productivity and competitiveness of a company.
-## 4.1 What is automated testing
+# 1. Automated testing and its benefit that can improve the productivity and competitiveness of a company.
+## 1.1 What is automated testing
 Automated testing is, well, automated. This differs from manual testing where a human being is responsible for single-handedly testing the functionality of the software in the way a user would. Because automated testing is done through an automation tool, less time is needed in exploratory tests and more time is needed in maintaining test scripts while increasing overall test coverage.
 
 ![automated testing](../images/automated_testing.png)
 
 The benefit of manual testing is that it allows a human mind to draw insights from a test that might otherwise be missed by an automated testing program. Automated testing is well-suited for large projects; projects that require testing the same areas over and over; and projects that have already been through an initial manual testing process.
-## 4.2 Benefit of automated testing
+## 1.2 Benefit of automated testing
 * Faster feedback: Automated testing comes as a relief for validation during various phases of a software project. This improves communication between coders, designers, and product owners, and allows immediate rectification of potential glitches. Automated testing assures higher efficiency of the development team by facilitating quick feedback cycles. 
 * Accelerated results: Owing to the quick implementation of automated testing, plenty of time is saved even for intricate and enormous systems. This allows for the testing to be carried out repeatedly, delivering faster results each time with lesser effort and time. 
 * Reduced business expenses: It is of no surprise that, while the initial investment may be on the higher side, automated testing saves companies many a penny. This is predominantly due to the sharp drop in the amount of time required to run tests. It contributes to a higher quality of work, thereby decreasing the necessity for fixing glitches after release, thereby reducing project costs. 
@@ -17,7 +17,7 @@ The benefit of manual testing is that it allows a human mind to draw insights fr
 * Faster time-to-market: Test Automation greatly helps reduce the time-to-market of an application by allowing constant execution of test cases. Once automated, the test library execution is faster and runs longer than manual testing. 
 * Information security: The effectiveness of testing will be largely dependent on the quality of the test data you use. Manually creating quality test data takes time and as a result, testing is often performed on copies of live databases. Automation solutions can help with creating, manipulating, and protecting your test database, allowing you to re-use your data time and again. The time and cost savings in this area are potentially huge. 
 
-## Reference
+## 2. Reference
 
  * [What is Automated Testing?](https://smartbear.com/learn/automated-testing/what-is-automated-testing/)
  * [The top 10 benefits of Test Automation](https://www.cigniti.com/blog/top-10-benefits-test-automation/)
