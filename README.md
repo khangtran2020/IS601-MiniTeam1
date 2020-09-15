@@ -74,7 +74,10 @@ The benefits of Git for product management is much the same as for marketing. Mo
 
 The feature branch workflow also provides flexibility when priorities change. For instance, if you’re halfway through a release cycle and you want to postpone one feature in lieu of another time-critical one, it’s no problem. That initial feature can sit around in its own branch until engineering has time to come back to it. This same functionality makes it easy to manage innovation projects, beta tests, and rapid prototypes as independent codebases.
 
+### 2.4 Git for Customer Services
+Customer support and customer success often have a different take on updates than product managers. When a customer calls them up, they’re usually experiencing some kind of problem. If that problem is caused by your company’s software, a bug fix needs to be pushed out as soon as possible.
 
+Git’s streamlined development cycle avoids postponing bug fixes until the next monolithic release. A developer can patch the problem and push it directly to production. Faster fixes means happier customers and fewer repeat support tickets. Instead of being stuck with, “Sorry, we’ll get right on that” your customer support team can start responding with “We’ve already fixed it!
 
 
 # 3. Git Commands and Terminology
