@@ -80,6 +80,23 @@ Customer support and customer success often have a different take on updates tha
 Git’s streamlined development cycle avoids postponing bug fixes until the next monolithic release. A developer can patch the problem and push it directly to production. Faster fixes means happier customers and fewer repeat support tickets. Instead of being stuck with, “Sorry, we’ll get right on that” your customer support team can start responding with “We’ve already fixed it!
 
 ## 3. Docker and its benefit that can improve the productivity and competitiveness of a company.
+### 3.1 What is Docker?
+Docker is an open-source software for deployment and development of applications within containers. Containers allow developers to emulate applications regardless of the OS and programming language, across multiple computers.
+
+![Docker](./images/docker.jpg)
+
+Containers are portable and can be run both in the cloud or on a machine with Docker installed, which makes using Docker in developing very flexible. We live and breathe flexibility here at Polcode.
+### 3.2 Why we use docker?
+Docker requires fewer infrastructure resources and doesn’t need installation of various language environments on a local machine to work. Both these traits make developing in Docker faster and more organized.
+
+When developing in Docker, devs can assign and distribute resources to certain containers with applications. This reduces downtime and keeps performance at a decent level.
+
+If there is no need to install different environments along with their configuration, developers don’t have to go through the trouble of preparing their computers for every programming language.
+
+We also use Docker because it makes deployment easier. The general rule is that, if the application works in a container, it will work when sent to the server, as well. So when you sent your app with a respective Docker image, there’s no need to worry that it won’t run properly.
+
+
+
 ## 4. Automated testing and its benefit that can improve the productivity and competitiveness of a company.
 ## 5. Continuous integration and its benefit that can improve the productivity and competitiveness of a company.
 
