@@ -98,3 +98,7 @@ The most common use of clone is to simply copy the remote respository.
 This follows the syntax of git clone [url]. This enables the user to take advantage of a full repository on local machine without disturbing the original version.
 
 ### 6.2 Git Fork
+
+
+## Reference
+ * [Why Git for your organization](https://www.atlassian.com/git/tutorials/why-git#:~:text=One%20of%20the%20biggest%20advantages,every%20change%20to%20your%20codebase.)
