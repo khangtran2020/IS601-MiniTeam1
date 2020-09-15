@@ -95,7 +95,7 @@ If there is no need to install different environments along with their configura
 
 We also use Docker because it makes deployment easier. The general rule is that, if the application works in a container, it will work when sent to the server, as well. So when you sent your app with a respective Docker image, there’s no need to worry that it won’t run properly.
 
-### How docker improve the productivity and competitiveness of a company
+### 3.3 How docker improve the productivity and competitiveness of a company
 
 For software development firms, there are many benefits of using Docker. Firstly, the flexibility offered by Docker containers means that engineers can focus on delivering a product to their customers. Rather than spending time on compatibility issues and different programming languages, they can instead focus on innovative new features, improving the user interface and correcting coding flaws.
 
@@ -110,12 +110,13 @@ This has enabled a faster and more dynamic approach to software creation -- in f
 For businesses that use a lot of software packages, Docker also has its advantages. As well the portability that containers provide, companies will discover that they no longer need a separate virtual machine for each application that they’re using. This can greatly reduce the amount of processing power required, giving businesses the freedom to embrace more applications or simply streamline their operations.
 
 ## 4. Automated testing and its benefit that can improve the productivity and competitiveness of a company.
+### 4.1 What is automated testing
 Automated testing is, well, automated. This differs from manual testing where a human being is responsible for single-handedly testing the functionality of the software in the way a user would. Because automated testing is done through an automation tool, less time is needed in exploratory tests and more time is needed in maintaining test scripts while increasing overall test coverage.
 
 ![automated testing](./images/automated_testing.png)
 
 The benefit of manual testing is that it allows a human mind to draw insights from a test that might otherwise be missed by an automated testing program. Automated testing is well-suited for large projects; projects that require testing the same areas over and over; and projects that have already been through an initial manual testing process.
-
+### 4.2 Benefit of automated testing
 
 ## 5. Continuous integration and its benefit that can improve the productivity and competitiveness of a company.
 
