@@ -110,6 +110,11 @@ This has enabled a faster and more dynamic approach to software creation -- in f
 For businesses that use a lot of software packages, Docker also has its advantages. As well the portability that containers provide, companies will discover that they no longer need a separate virtual machine for each application that they’re using. This can greatly reduce the amount of processing power required, giving businesses the freedom to embrace more applications or simply streamline their operations.
 
 ## 4. Automated testing and its benefit that can improve the productivity and competitiveness of a company.
+Automated testing is, well, automated. This differs from manual testing where a human being is responsible for single-handedly testing the functionality of the software in the way a user would. Because automated testing is done through an automation tool, less time is needed in exploratory tests and more time is needed in maintaining test scripts while increasing overall test coverage.
+
+The benefit of manual testing is that it allows a human mind to draw insights from a test that might otherwise be missed by an automated testing program. Automated testing is well-suited for large projects; projects that require testing the same areas over and over; and projects that have already been through an initial manual testing process.
+
+
 ## 5. Continuous integration and its benefit that can improve the productivity and competitiveness of a company.
 
 ## 6. Git Commands and Terminology
