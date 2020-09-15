@@ -37,4 +37,4 @@ Now that your changes have been verified in production, it is time to merge your
 Once merged, Pull Requests preserve a record of the historical changes to your code. Because they're searchable, they let anyone go back in time to understand why and how a decision was made.
 
 ## Reference
-* [Understand the git workflow](Understanding the GitHub flow)
+* [Understand the git workflow](https://guides.github.com/introduction/flow/)
