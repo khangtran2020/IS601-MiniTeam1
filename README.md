@@ -67,6 +67,14 @@ This gives marketers more to talk about, more often. In the above scenario, mark
 ![git for marketing](./images/git_for_marketing.jpg)  
 For instance, they might prepare a big PR push for the game changing feature, a corporate blog post and newsletter blurb for Mary’s feature, and some guest posts about Rick’s underlying UX theory for sending to external design blogs. All of these activities can be synchronized with a separate release.  
 
+### 2.3 Git for product management
+The benefits of Git for product management is much the same as for marketing. More frequent releases means more frequent customer feedback and faster updates in reaction to that feedback. Instead of waiting for the next release 8 weeks from now, you can push a solution out to customers as quickly as your developers can write the code.  
+  
+![Git for product management](./images/git_for_management.jpg)    
+
+The feature branch workflow also provides flexibility when priorities change. For instance, if you’re halfway through a release cycle and you want to postpone one feature in lieu of another time-critical one, it’s no problem. That initial feature can sit around in its own branch until engineering has time to come back to it. This same functionality makes it easy to manage innovation projects, beta tests, and rapid prototypes as independent codebases.
+
+
 
 
 # 3. Git Commands and Terminology
