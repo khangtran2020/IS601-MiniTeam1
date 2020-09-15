@@ -62,7 +62,12 @@ As you might expect, Git works very well with continuous integration and continu
 
 ### 2.2 Git for Marketing
 The shorter development cycle facilitated by Git makes it much easier to divide marketing task into individual releases. 
-This gives marketers more to talk about, more often. In the above scenario, marketing can build out three campaigns that revolve around each feature, and thus target very specific market segments.
+This gives marketers more to talk about, more often. In the above scenario, marketing can build out three campaigns that revolve around each feature, and thus target very specific market segments.  
+  
+![git for marketing](./images/git_for_marketing.jpg)  
+For instance, they might prepare a big PR push for the game changing feature, a corporate blog post and newsletter blurb for Mary’s feature, and some guest posts about Rick’s underlying UX theory for sending to external design blogs. All of these activities can be synchronized with a separate release.  
+
+
 
 # 3. Git Commands and Terminology
 
