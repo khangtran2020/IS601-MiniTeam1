@@ -4,7 +4,7 @@
 * [Clone](./Commands/Clone.md)
 * [Fork](./Commands/Fork.md)
 * [Branch](./Commands/Branch.md)
-* Commit
+* [Commit](./Commands/Commit.md)
 * Merge
 * Checkout
 * Push
