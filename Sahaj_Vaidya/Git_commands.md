@@ -6,7 +6,7 @@
 * [Branch](./Commands/Branch.md)
 * [Commit](./Commands/Commit.md)
 * [Merge](./Commands/Merge.md)
-* Checkout
+* [Checkout](./Commands/Checkout.md)
 * Push
 * Pull 
 * Remote Add / Remove / Show
