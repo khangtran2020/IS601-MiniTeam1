@@ -2,8 +2,8 @@
 
 * Repository
 * [Clone](./Commands/Clone.md)
-* Fork
-* Branch
+* [Fork](./Commands/Fork.md)
+* [Branch](./Commands/Branch.md)
 * Commit
 * Merge
 * Checkout
