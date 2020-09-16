@@ -7,7 +7,7 @@
 * [Commit](./Commands/Commit.md)
 * [Merge](./Commands/Merge.md)
 * [Checkout](./Commands/Checkout.md)
-* Push
+* [Push](./Commands/Push.md)
 * Pull 
 * Remote Add / Remove / Show
 * Status
