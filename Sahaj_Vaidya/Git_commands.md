@@ -5,7 +5,7 @@
 * [Fork](./Commands/Fork.md)
 * [Branch](./Commands/Branch.md)
 * [Commit](./Commands/Commit.md)
-* Merge
+* [Merge](./Commands/Merge.md)
 * Checkout
 * Push
 * Pull 
