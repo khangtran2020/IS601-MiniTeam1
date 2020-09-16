@@ -8,7 +8,7 @@
 * [Merge](./Commands/Merge.md)
 * [Checkout](./Commands/Checkout.md)
 * [Push](./Commands/Push.md)
-* Pull 
+* [Pull](./Commands/Pull.md)
 * Remote Add / Remove / Show
 * Status
 * Master Branch
