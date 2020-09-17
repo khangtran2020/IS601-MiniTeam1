@@ -13,3 +13,10 @@
 * [Status](./Commands/Status.md)
 * [Master Branch](./Commands/Master%20Branch.md)
 
+### References:
+1. https://www.atlassian.com/git
+2. https://bitbucket.org/product
+3. https://git-scm.com/
+4. https://www.git-tower.com/windows
+
+
