@@ -1,6 +1,6 @@
 # 6. Git Commands and Terminology
 
-* Repository
+* [Repository](./Commands/Repository.md)
 * [Clone](./Commands/Clone.md)
 * [Fork](./Commands/Fork.md)
 * [Branch](./Commands/Branch.md)
