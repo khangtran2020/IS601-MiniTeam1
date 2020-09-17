@@ -4,9 +4,11 @@ current working directory and the staging area. It allows the user
 to see which changes have been staged, which haven't and which files
 are not being tracked. But this coomand does not show any information
 about the history of commits made.
+
 Usage of this command:\
 `git status`\
-Makes a list of those files which are staged, unstaged and untracked.\
+Makes a list of those files which are staged, unstaged and untracked.
+
 This is a relatively easy to use and straightforward command which simply
 shows you what is going with `git add` and `git commit` commands.
 The message shown by status command also includes the instructions
