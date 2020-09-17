@@ -11,5 +11,5 @@
 * [Pull](./Commands/Pull.md)
 * [Remote Add / Remove / Show](./Commands/Remote%20Add.md)
 * [Status](./Commands/Status.md)
-* Master Branch
+* [Master Branch](./Commands/Master%20Branch.md)
 
