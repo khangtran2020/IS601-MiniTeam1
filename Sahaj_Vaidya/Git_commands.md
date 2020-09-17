@@ -9,7 +9,7 @@
 * [Checkout](./Commands/Checkout.md)
 * [Push](./Commands/Push.md)
 * [Pull](./Commands/Pull.md)
-* Remote Add / Remove / Show
+* [Remote Add / Remove / Show](./Commands/Remote%20Add.md)
 * Status
 * Master Branch
 
