@@ -1,4 +1,4 @@
-## 6.8 Pull
+## 6.9 Pull
 The `git pull` command is used to fetch the content from the remote 
 repository and download it to the local system to update the
 version existing on the local. Actually, `git pull` is a combination of two

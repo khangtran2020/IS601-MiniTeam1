@@ -1,4 +1,4 @@
-## 6.10 Status
+## 6.11 Status
 The `git status` command is used to exhibit the state of the
 current working directory and the staging area. It allows the user
 to see which changes have been staged, which haven't and which files

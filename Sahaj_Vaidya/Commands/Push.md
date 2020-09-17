@@ -1,4 +1,4 @@
-## 6.7 Push
+## 6.8 Push
 The `git push` command is used to upload the contents of local repository
 to the remotely existing repository. In other words, pushing is how the user
 transfers commits from local version to the remote version.

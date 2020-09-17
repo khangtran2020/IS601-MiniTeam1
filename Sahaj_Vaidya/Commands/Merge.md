@@ -1,4 +1,4 @@
-## 6.5 Merge
+## 6.6 Merge
 The `git merge` command allows you to take the independent versions
 of the project and integrate these versions into the main branch.
 This `git merge` will combine multiple commit sequences into one
@@ -6,8 +6,9 @@ single unified history. One of the very frequent uses of `git merge` is to
 combine two branches together. Before using `git merge` make sure that
 the correct local branch is checked out. Once this is done, perform the merge by
 specifying the following commands:\
-` git checkout localbranch`\
-` git merge feature`\
+* `git checkout localbranch`
+* `git merge feature`\
+
 Conflicts often occur when using the merge command. Conflicts generally 
 arise when two users have updated the same line in a file or if one user
 deleted a file while another was editing it. In such cases, it is not

@@ -1,4 +1,4 @@
-## 6.9 Remote Add/Remove/Show
+## 6.10 Remote Add/Remove/Show
 Thi `git remote` command helps the user to manage connections
 to remote repositories. It allows to show which remote versions are currently
 connected along with adding new connections or removing existing ones.

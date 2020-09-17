@@ -1,4 +1,4 @@
-## 6.2 Fork
+## 6.3 Fork
 A fork is creating copy of a repository. Forking a repository allows the user to 
 freely experiment with the changes without having an affect on the original
 version of the project. Mostly Fork is used to either propose new changes or make edits

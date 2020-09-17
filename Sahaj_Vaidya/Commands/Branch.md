@@ -1,4 +1,4 @@
-## 6.3 Branch
+## 6.4 Branch
 Branch is a feature mostly available with contemporary version
 control systems. Git branches are an effective way to demonstrate a 
 snapshot of the changes made. When you want to add a new feature or fix

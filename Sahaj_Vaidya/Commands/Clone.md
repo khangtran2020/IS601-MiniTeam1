@@ -1,4 +1,4 @@
-# 6.1 Git Clone
+# 6.2 Git Clone
 This command is used to get a copy of an already existing Git repository. Cloning can be considered as a process of creating an identical copy of Git repository to the local system.
 When we clone a repository, all the files are downloaded to local machine, but the remote repository remains unchanged. Editing the local repository and committing changes does not have an impact on the remote version in any way.
 However, these changes can be synced with the remote repository anytime the user wants.

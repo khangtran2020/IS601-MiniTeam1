@@ -1,4 +1,4 @@
-## 6.6 Checkout
+## 6.7 Checkout
 In Git terminology, `checkout` is the process of switching between different
 versions of the target. The `git checkout` command operates between
 three components: files, commit and branches. This command can be used to 
