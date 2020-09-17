@@ -19,5 +19,6 @@ Generally, by default the `git commit` opens the editor prompting for
 a commit message, but with the help of this command the message is passed in
 the command itself thus eliminating the need for editor.
 
-
+This `git commit` is a very important Git command to save changes to
+the local and remote versions of the project.
 
