@@ -10,6 +10,6 @@
 * [Push](./Commands/Push.md)
 * [Pull](./Commands/Pull.md)
 * [Remote Add / Remove / Show](./Commands/Remote%20Add.md)
-* Status
+* [Status](./Commands/Status.md)
 * Master Branch
 
