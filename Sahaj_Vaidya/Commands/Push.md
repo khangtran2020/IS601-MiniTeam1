@@ -18,5 +18,6 @@ push even if it results in a non fast forward merge.
 * `git push <remote version> --all`\
 This command pushes all the local branches to the specified remote 
 repository.\
+
 The most common use of `git push` is to upload local changes to
 the central version of the existing repository.
