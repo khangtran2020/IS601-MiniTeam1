@@ -3,7 +3,7 @@ A Git repository provides a virtual storage for the project. It allows the
 user to work on different versions of the same code.
 To create a new repo, you'll use the `git init` command. This
 `git init` is a one-time command you use during the initial setup of a new repo. Executing this command will create a new .git subdirectory in your current working directory. 
-This will also create a new master branch. \
+This will also create a new master branch. 
 
 Pointing `git init` to an existing project directory 
 will execute the same initialization setup, 
