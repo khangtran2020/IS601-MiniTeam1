@@ -16,7 +16,20 @@ introduce the git worklow and some Git commands and terminology
 [5. Git Workflow](./Khang_Tran/Git_workflow.md)  
 [6. Git Commands and Terminology](./Sahaj_Vaidya/Git_commands.md)
 
-Distribution of work done by each member:
-* Sahaj 
-    * Worked on the section to define and give examples of 12 most
-    frequently used Git features listed out in Section 6
+## Change log
+
+### Khang Tran:
+* Set up Git repo
+* Feature: Git
+* Feature: Advantage of Git
+* Feature: Docker
+* Feature: Advantage of Docker
+* Feature: Automated testing
+* Feature: Advantage of Automated testing
+* Feature: Continuous Integration
+* Feature: Advantage of Continuous Integration
+* Feature: Git Workflow 
+* Feature: Advantage of Git Workflow
+
+### Sahaj  Vaidya:
+* Worked on the section to define and give examples of 12 most frequently used Git features listed out in Section 6
