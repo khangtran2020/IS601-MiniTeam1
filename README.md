@@ -16,3 +16,7 @@ introduce the git worklow and some Git commands and terminology
 [5. Git Workflow](./Khang_Tran/Git_workflow.md)  
 [6. Git Commands and Terminology](./Sahaj_Vaidya/Git_commands.md)
 
+Distribution of work done by each member:
+* Sahaj 
+    * Worked on the section to define and give examples of 12 most
+    frequently used Git features listed out in Section 6
