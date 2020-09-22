@@ -19,4 +19,17 @@ introduce the git worklow and some Git commands and terminology
 Distribution of work done by each member:
 * Sahaj 
     * Worked on the section to define and give examples of 12 most
-    frequently used Git features listed out in Section 6
+    frequently used Git features listed out in Section 6. 
+    * Feature: Explanation of Repository
+    * Feature: Explanation of Cloning
+    * Feature: Content added for Fork command
+    * Feature: Branch command explained
+    * Feature: Explanation of commit
+    * Feature: Merge command 
+    * Feature: Checkout command
+    * Feature: Push explained
+    * Feature: Explanation of Pull
+    * Feature: Remote repositories explained
+    * Feature: Status command
+    * Feature: Master branch
+  
