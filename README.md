@@ -16,20 +16,32 @@ introduce the git worklow and some Git commands and terminology
 [5. Git Workflow](./Khang_Tran/Git_workflow.md)  
 [6. Git Commands and Terminology](./Sahaj_Vaidya/Git_commands.md)
 
-Distribution of work done by each member:
-* Sahaj 
-    * Worked on the section to define and give examples of 12 most
-    frequently used Git features listed out in Section 6. 
-    * Feature: Explanation of Repository
-    * Feature: Explanation of Cloning
-    * Feature: Content added for Fork command
-    * Feature: Branch command explained
-    * Feature: Explanation of commit
-    * Feature: Merge command 
-    * Feature: Checkout command
-    * Feature: Push explained
-    * Feature: Explanation of Pull
-    * Feature: Remote repositories explained
-    * Feature: Status command
-    * Feature: Master branch
-  
+## Change log
+### Sahaj  Vaidya:
+* Worked on the section to define and give examples of 12 most frequently used Git features listed out in Section 6
+* Feature: Explanation of Repository
+* Feature: Explanation of Cloning
+* Feature: Content added for Fork command
+* Feature: Branch command explained
+* Feature: Explanation of commit
+* Feature: Merge command 
+* Feature: Checkout command
+* Feature: Push explained
+* Feature: Explanation of Pull
+* Feature: Remote repositories explained
+* Feature: Status command
+* Feature: Master branch
+### Khang Tran:
+* Set up Git repo
+* Feature: Git
+* Feature: Advantage of Git
+* Feature: Docker
+* Feature: Advantage of Docker
+* Feature: Automated testing
+* Feature: Advantage of Automated testing
+* Feature: Continuous Integration
+* Feature: Advantage of Continuous Integration
+* Feature: Git Workflow 
+* Feature: Advantage of Git Workflow
+
+More specific detail about the changes can be found [here](https://github.com/khangtran2020/IS601-MiniTeam1/commits/master)
