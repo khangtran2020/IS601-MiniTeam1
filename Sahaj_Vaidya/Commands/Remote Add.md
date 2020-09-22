@@ -13,3 +13,6 @@ It takes one argument: A remote name
 * `git remote show`\
 This command shows the output in the form of high level information
 about the remote repository.
+
+The remote command is a useful command to work with remotely existing 
+repositories.

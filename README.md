@@ -30,3 +30,6 @@ introduce the git worklow and some Git commands and terminology
 * Feature: Advantage of Continuous Integration
 * Feature: Git Workflow 
 * Feature: Advantage of Git Workflow
+
+### Sahaj  Vaidya:
+* Worked on the section to define and give examples of 12 most frequently used Git features listed out in Section 6
